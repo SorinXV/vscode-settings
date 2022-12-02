@@ -1,0 +1,16 @@
+{
+	"explorer.compactFolders": true,
+	"notebook.compactView": false,
+	"editor.formatOnSave": true,
+	"git.autofetch": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"files.autoSave": "afterDelay",
+	"window.zoomLevel": 1,
+	"workbench.colorTheme": "PyCharm Night Theme",
+	"editor.fontSize": 14,
+	"editor.fontFamily": "Fira Code",
+	"editor.fontLigatures": true,
+	"prettier.useTabs": true,
+	"_comment": "I downloaded the font from https://github.com/tonsky/FiraCode",
+	"security.workspace.trust.untrustedFiles": "open"
+}
