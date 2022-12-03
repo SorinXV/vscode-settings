@@ -8,7 +8,7 @@ To open the User settings:
 
 # Vscode Extensions 
 
-Instead of uploading the whole folders, here's the commands to get each separately.
+Instead of uploading the whole folder, here's the commands to get each extension separately.
 
 ```bash
 code --install-extension bladnman.auto-align
